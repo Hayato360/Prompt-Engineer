@@ -85,7 +85,7 @@
 - Threats (อุปสรรค)
 ```
 
-**8. [การปฏิบัติการ] พัฒนาบรรจุภัณฑ์ (ฉบับปรับปรุง)**
+**8. [การปฏิบัติการ] พัฒนาประสบการณ์ลูกค้า (ฉบับปรับปรุง)**
 ```
 ในฐานะ "ผู้เชี่ยวชาญด้านการออกแบบประสบการณ์ลูกค้า (Customer Experience Designer)" ช่วยเสนอไอเดียในการปรับปรุงขั้นตอน 'การส่งมอบ' ของธุรกิจฉันให้ดีขึ้น เพื่อสร้างความประทับใจและสะท้อนความเป็นมืออาชีพ
 
@@ -118,14 +118,5 @@
 
 ---
 
-## 🖼️ Prompt สำหรับการสร้างภาพ (Image Generation)
 
-**1. Workshop สร้างสรรค์โลโก้ร้าน**
-```
-minimalist line art logo of a monstera plant in a simple pot, green and terracotta colors, vector, on a plain white background
-```
-
-**2. Workshop ออกแบบภาพโฆษณา**
-```
-Photorealistic medium shot of a beautiful monstera plant in a white ceramic pot. The pot is sitting on a light wooden table next to a large window in a minimalist living room. Soft morning sunlight streams through the window, casting gentle shadows. The atmosphere is cozy, peaceful, and fresh. highly detailed, 4k.
 ```
