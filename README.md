@@ -120,3 +120,68 @@
 
 
 ```
+1. Prompts ในการหาไอเดียเพื่อสร้างธุรกิจ 🌐
+“Generate a list of 10 innovative business ideas in the [industry] sector.”
+“Suggest three niche markets within the [industry] that have growth potential.”
+“Identify five current trends in the [industry] and how a new business could capitalize on them.”
+“Analyze the top three competitors in the [industry] and suggest unique selling points for a new business.”
+“Propose five business ideas that focus on sustainability and social impact.”
+“Create a list of 10 low-cost business ideas that can be started with minimal investment.”
+“Suggest three business ideas that cater to the remote work and freelancing market.”
+“Identify five business opportunities arising from recent technological advancements.”
+“Provide three business ideas that can help solve common problems faced by small business owners.”
+“List five business ideas that can leverage the growing popularity of online shopping.”
+```
+```
+🌐 2. Prompts ช่วยบริหารเวลา และจัดการชีวิต 🌐
+“Suggest five productivity tools that can help streamline my daily business tasks.”
+“List three strategies to effectively manage time for a small business owner.”
+“Identify five techniques to improve focus and reduce distractions while working.”
+“Propose a daily routine for an entrepreneur to maximize productivity.”
+“Recommend three methods for prioritizing and organizing tasks for my business.”
+“Create a plan for delegating tasks and responsibilities within my team.”
+“Suggest three ways to automate repetitive tasks in my [industry] business.”
+“Identify five strategies to manage stress and maintain a work-life balance.”
+“Propose a system for tracking and measuring productivity for my team.”
+“Recommend three methods for setting and achieving short-term and long-term business goals.”
+```
+```
+🌐 3. Prompts สำหรับบริหารจัดการทีม 🌐
+“Recommend three methods for providing constructive feedback to team members”
+“List five qualities to look for when hiring new team members for my [industry] business.”
+“Suggest three strategies to improve communication within my team.”
+“Identify five techniques to motivate and engage my employees.”
+“Propose a plan for conducting effective team meetings.”
+“Recommend three methods for providing constructive feedback to team members.”
+“Create a system for tracking and evaluating employee performance.”
+“Suggest three strategies for managing conflicts and resolving issues within my team.”
+“Identify five ways to foster a positive and inclusive company culture.”
+“Propose a plan for implementing professional development opportunities for my employees.”
+“Recommend three methods for recognizing and rewarding employee achievements.”
+```
+```
+🌐 4. Prompts ช่วยเขียนอีเมลทางธุรกิจ 🌐
+“Write a professional email introducing my new business to potential clients.”
+“Compose a follow-up email for clients who have not responded to a previous inquiry.”
+“Craft an email to announce a new product or service to existing customers.”
+“Create an email template for requesting testimonials or referrals from satisfied clients.”
+“Write a polite email declining a business proposal or collaboration.”
+“Compose an email to address and resolve a customer complaint.”
+“Craft a thank-you email to a client after a successful project completion.”
+“Create an email to inform customers of changes in pricing or terms of service.”
+“Write a professional email to request a meeting with a potential business partner.”
+“Compose a promotional email to announce a limited-time offer or discount.”
+```
+```
+🌐 5. Prompts สำหรับการวางแผนกลยุทธ์สำหรับธุรกิจ 🌐
+“Outline a business plan for a [industry] startup.”
+“Create a SWOT analysis for my [industry] business idea.”
+“Generate a marketing plan for my [industry] business.”
+“Develop a sales strategy for my [industry] company.”
+“Identify five potential revenue streams for my [industry] business.”
+“List three strategies to improve customer retention in my [industry] business.”
+“Propose a plan to expand my [industry] business into new markets.”
+“Suggest three cost-cutting measures to improve profitability in my [industry] business.”
+“Develop a plan to strengthen my [industry] company’s online presence.”
+“Outline a financial forecast for my [industry] business for the next three years.”
+```
